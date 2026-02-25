@@ -1,6 +1,12 @@
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/63a91761-8891-4f2f-bd13-d71eb56b54c6" />
 
 # Windows Password Bypass & User Creation Guide
+
+![Exploit](https://img.shields.io/badge/Exploit-Utilman%20Bypass-red)
+![Shell](https://img.shields.io/badge/Shell-CMD%20%2F%20System32-black?logo=windows-terminal&logoColor=white)
+![Security](https://img.shields.io/badge/Type-Local%20Privilege%20Escalation-critical)
+![Educational](https://img.shields.io/badge/Purpose-Educational%20Use%20Only-yellow)
+
 **Scenario:** You have physical access to a machine but cannot log in. Windows is installed on Drive **D:**.
 **Objective:** Create a new Administrator account using the Command Prompt via the Utility Manager trick.
 
