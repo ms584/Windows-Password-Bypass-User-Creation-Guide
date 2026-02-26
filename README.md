@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/63a91761-8891-4f2f-bd13-d71eb56b54c6" />
+yourstallationndowsreenshotsreenshotsururmg width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/63a91761-8891-4f2f-bd13-d71eb56b54c6" />
 
 # Windows Password Bypass & User Creation Guide
 
@@ -32,7 +32,7 @@ You need to get to a Command Prompt outside of the running Windows environment.
 
 In this phase, we replace the "Ease of Access" button on the login screen with the Command Prompt.
 
-*Note: Based on your screenshots, your Windows installation is on Drive **D:**.*
+*Note: Based on my lab PC, my Windows installation is on Drive **D:**.*
 
 1.  **Switch to the System Drive:**
     ```cmd
